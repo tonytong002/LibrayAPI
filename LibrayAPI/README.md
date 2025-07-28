@@ -29,7 +29,7 @@ LibraryAPI/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-repo/library-api.git
+   git clone https://github.com/tonytong002/LibrayAPI.git
    cd library-api
    ```
 
